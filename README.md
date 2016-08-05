@@ -1,7 +1,5 @@
 # HackManchester Challenge
 
-Manchester Social Entrepreneurs Challenge - Hack Manchester Junior Half Term Youth Hacks 2016
-
 [![Hack Manchester Junior](images/HackManchesterJunior.png)](http://www.hackmanchester.com/junior) 
 [![Hive Manchester](images/HiveMCR.jpg)](http://hivemanchester.net/)
 [![Manchester Social Entrepreneurs](images/MCRSocialEnt.jpg)](http://www.meetup.com/Manchester-Social-Entrepreneurs/)
