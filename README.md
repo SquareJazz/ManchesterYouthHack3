@@ -1,6 +1,6 @@
 # HackManchester Challenge
 
-<img src='images/GMHackFest.jpg' height="100" width="300" />
+<img src='images/GMHackFest.jpg' height="300" width="300" />
 [![Hive Manchester](images/HiveMCR.jpg)](http://hivemanchester.net/)
 [![Manchester Social Entrepreneurs](images/MCRSocialEnt.jpg)](http://www.meetup.com/Manchester-Social-Entrepreneurs/)
 
