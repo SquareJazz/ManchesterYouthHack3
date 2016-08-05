@@ -1,6 +1,6 @@
 # HackManchester Challenge
 
-<img src='images/GMHackFest.jpg' height="300" width="300" />
+<img src='images/GMHackFest.png' height="150" width="330" />
 <img src='images/Hack Manchester.png' height="150" width="330" />
 
 The reason developers work so well together is that we all believe that the most important question is 'why?' When you have a purpose and are all driven towards the same goals, everyone pulls in the same direction, and you become hugely effective as a team.
